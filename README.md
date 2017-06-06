@@ -1,2 +1,3 @@
 # demo-merge-conflict
-demo repo
+de repo
+add
